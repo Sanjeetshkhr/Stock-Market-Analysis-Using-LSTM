@@ -1,1 +1,1 @@
-# Stock-Market-Analysis-Using-LTSM
+# Stock-Market-Analysis-Using-LSTM
